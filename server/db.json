@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "initialValue": {
+        "name": "",
+        "email": "",
+        "phone": "",
+        "dob": ""
+      },
+      "name": "Bekzod",
+      "email": "G`aniyev",
+      "phone": "909090909",
+      "dob": "22/02/2002",
+      "id": 1
+    },
+    {
+      "name": "Sherzod",
+      "email": "G`aniyev",
+      "phone": "4444455555",
+      "dob": "22/04/1981",
+      "id": 2
+    },
+    {
+      "name": "Ansor Med",
+      "email": "bekganiyev2001@gmail.com",
+      "phone": "7131",
+      "dob": "22/03/1991",
+      "id": 3
+    }
+  ]
+}
